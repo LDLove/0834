@@ -1,0 +1,13 @@
+//
+//  MusicListController.h
+//  音乐播放器
+//
+//  Created by 高升 on 15/11/4.
+//  Copyright © 2015年 gaosheng. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MusicListController : UITableViewController
+
+@end
