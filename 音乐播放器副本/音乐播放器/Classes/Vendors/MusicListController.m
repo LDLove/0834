@@ -39,6 +39,10 @@ static NSString * customCell = @"customCell";
     // Dispose of any resources that can be recreated.
 }
 
+- (void)text{
+    NSLog(@"修改了");
+}
+
 #pragma mark - Table view data source
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
